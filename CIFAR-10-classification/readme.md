@@ -1,6 +1,7 @@
 # 🧠 CIFAR-10 Image Classification using PyTorch
 
 This project implements a **Convolutional Neural Network (CNN)** from scratch to classify images from the **CIFAR-10** dataset using **PyTorch**. The notebook is designed to demonstrate hands-on experience in building and training deep learning models for computer vision tasks, emphasizing critical concepts such as **ReLU activation**, **softmax output**, **cross-entropy loss**, **backpropagation**, and **GPU acceleration**.
+
 Keywords: PyTorch, CIFAR-10, CNN, Image Classification, Deep Learning, Computer Vision
 
 
